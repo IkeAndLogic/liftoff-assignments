@@ -1,4 +1,3 @@
-[Arum, Ikechukwu (@IkeAndLogic)](https://github.com/IkeAndLogic/liftoff-assignments)
 
 # Start Here!
 Welcome to Liftoff! We are excited to have you in this course.
