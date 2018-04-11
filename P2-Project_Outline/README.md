@@ -43,7 +43,8 @@ Asp.net,
 CSS3/HTML, 
 SQL, 
 Bootstrap
+javascript
 
 
 ### What I'll Have to Learn
-JavaScript to make the front-end more interactive and provide a more user-friendly experience
+how to define different user account access levels for each user.
