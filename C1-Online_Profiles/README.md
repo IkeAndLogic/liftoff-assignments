@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-https://www.linkedin.com/feed/
+https://github.com/IkeAndLogic
 ### LinkedIn
 https://www.linkedin.com/in/ikechukwu-arum-80444a95/
 ### Resume
