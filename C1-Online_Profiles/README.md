@@ -7,10 +7,8 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
-
+https://www.linkedin.com/feed/
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-
+https://www.linkedin.com/in/ikechukwu-arum-80444a95/
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://github.com/IkeAndLogic/liftoff-assignments/blob/master/C1-Online_Profiles/updated%20lc101%20resume%20pdf.pdf
